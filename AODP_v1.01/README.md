@@ -2,6 +2,8 @@
 
 Automated Oligo Design Pipeline version 1.01 (AODP_v1.01)
 ========================================================
+DOI: 10.5281/zenodo.10762
+
 Authors: Kaisheng (Kevin) Chen, Chuyang (Charles) Qi, Wen Chen* (wen.chen@agr.gc.ca)
 
 The Automated Oligoneucleotide Design Pipeline extracts signature oligonucleotides of specified lengths primarily 
