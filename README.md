@@ -1,7 +1,7 @@
 # README #
 
-##Automated Oligo Design Pipeline version 1.3.0 (AODP_v1.3.0)##
-========================================================
+##Automated Oligo Design Pipeline version releases (current version v1.3.0) ##
+
 DOI: 10.5281/zenodo.10762
 
 Authors: Kaisheng (Kevin) Chen, Chuyang (Charles) Qi, Eric Hardy, Wen Chen* (wen.chen@agr.gc.ca)
