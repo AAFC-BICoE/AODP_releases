@@ -5,6 +5,9 @@ copyright 2014 Government of Canada
 The Automated Oligoneucleotide Design Pipeline extracts signature oligonucleotides of specified lengths primarily using the program SigOli (Signature Oligo, Manuel Zahariev 2009). 
 Signature oligonucleotides designed for taxon groups of interest, can be used 1) to construct DNA arrays for hybridization; or 2) for in silico probing of species with great accuracy from NGS databases.
 
+Acknowledgement:
+This work is financially supported by Agriculture & Agri-Food Canada (AAFC) funded project #97 and Canadian Safety and Security Program (CSSP) funded project CRTI 09-462RD/CSSP 30vv01.
+
 Authors: Kaisheng (Kevin) Chen, Chuyang (Charles) Qi, Eric Hardy, Michael Matwichuk, Wen Chen* (wen.chen@agr.gc.ca)
 
 DOI: 10.5281/zenodo.10762
