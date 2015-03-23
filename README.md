@@ -8,7 +8,7 @@ Signature oligonucleotides designed for taxon groups of interest, can be used 1)
 Acknowledgement:
 This work is financially supported by Agriculture & Agri-Food Canada (AAFC) funded project #97 and Canadian Safety and Security Program (CSSP) funded project CRTI 09-462RD/CSSP 30vv01.
 
-Authors: Kaisheng (Kevin) Chen, Chuyang (Charles) Qi, Eric Hardy, Michael Matwichuk, Wen Chen* (wen.chen@agr.gc.ca)
+Authors: Kaisheng (Kevin) Chen, Chuyang (Charles) Qi, Eric Hardy, Wen Chen* (wen.chen@agr.gc.ca)
 
 DOI: 10.5281/zenodo.10762
 
